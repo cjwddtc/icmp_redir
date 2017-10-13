@@ -13,7 +13,7 @@
 
 #define DATA_LEN 8
 #define SIZE_ETHERNET 14
-#define HEAD_MAX 60
+#define HEAD_MAX 64
 
 uint32_t Vic_IP;
 uint32_t Ori_Gw_IP;
